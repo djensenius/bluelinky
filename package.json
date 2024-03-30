@@ -1,6 +1,6 @@
 {
-  "name": "bluelinky",
-  "version": "8.3.0",
+  "name": "dfj-bluelinky",
+  "version": "8.3.1",
   "description": "An unofficial nodejs API wrapper for Hyundai bluelink",
   "main": "dist/index.cjs",
   "module": "dist/index.esm.js",
@@ -33,7 +33,7 @@
       "pre-commit": "npm run lint"
     }
   },
-  "homepage": "https://github.com/Hacksore/bluelinky",
+  "homepage": "https://github.com/djensenius/bluelinky",
   "devDependencies": {
     "@babel/core": "^7.10.4",
     "@babel/preset-env": "^7.10.4",
